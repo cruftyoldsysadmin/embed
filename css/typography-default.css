@@ -1,0 +1,6 @@
+/* Base typography with Google Fonts disabled
+============================================== */
+
+body {
+  font-family: "Arial", "Helvetica Neue", "Helvetica", sans-serif;
+}

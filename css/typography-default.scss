@@ -1,0 +1,8 @@
+/* Base typography with Google Fonts disabled
+============================================== */
+
+@import 'inc/variables';
+
+body {
+	font-family: $default-primary-font;
+}
